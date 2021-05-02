@@ -24,3 +24,5 @@ u -> untracked
 
           git add               git commit 
 untracked    ->    staging area      ->      commit
+
+new stuff
