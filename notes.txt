@@ -1,0 +1,26 @@
+Commands
+- git init
+
+- git add
+
+- git status
+
+- git log
+
+- git commit
+
+- git push
+
+- git pull
+
+- git clone
+
+
+git add -> git commit
+
+
+status
+u -> untracked
+
+          git add               git commit 
+untracked    ->    staging area      ->      commit
